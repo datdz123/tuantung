@@ -71,7 +71,7 @@ const LoginScreen = ({ navigation }) => {
           
         />
 
-        <CustomButton label={"Đăng nhập"} onPress={() => { navigation.navigate('Trang chủ');}} />
+        <CustomButton label={"Đăng nhập"} onPress={() => { navigation.navigate('MainTab');}} />
         {/* <CustomButton label={"Đăng nhập"} onPress={() => { navigation.navigate('StudentList')}} />
         <CustomButton label={"Đăng nhập"} onPress={() => { navigation.navigate('CourseList')}} /> */}
 

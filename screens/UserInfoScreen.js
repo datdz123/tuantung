@@ -121,8 +121,8 @@ const styles = StyleSheet.create({
     marginTop: 30,
   },
   userImage: {
-    width: 150,
-    height: 150,
+    width: 100,
+    height: 100,
     borderRadius: 50,
     marginBottom: 10,
   },
@@ -160,7 +160,7 @@ const styles = StyleSheet.create({
     borderRadius: 25,
     flexDirection: 'row',
     alignItems: 'center',
-    marginBottom: 50
+    marginBottom: 20
   },
   sectionTitle: {
     width: '100%',
